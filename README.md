@@ -1,1 +1,1 @@
-https://doc.rust-lang.org/book/ch01-01-installation.html
+https://doc.rust-jp.rs/book-ja/title-page.html
